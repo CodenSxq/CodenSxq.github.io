@@ -25,8 +25,7 @@ Now, I am pursuing a Ph.D in Control Science and Engineering from [School of Aut
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[//]:- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
@@ -45,9 +44,9 @@ Now, I am pursuing a Ph.D in Control Science and Engineering from [School of Aut
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- ***2025.03*** Outstanding Graduates, SJTU (Top 10%).
+- ***2025.03*** Outstanding Graduates, SJTU (Top 10%)
 - ***2024.10*** National Scholarship (Top 1%)
-- ***2022.06*** Outstanding Graduates, CSU and Hunan (Top 10%).
+- ***2022.06*** Outstanding Graduates, CSU and Hunan (Top 10%)
 - ***2021.08*** National Second Price, "NXP Cup" Smart Car Competition (Top 3%)
 
 # 📖 Educations
@@ -60,4 +59,5 @@ Now, I am pursuing a Ph.D in Control Science and Engineering from [School of Aut
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- ***2025.08 - 2025.09***, [RLC Lab](https://sites.google.com/view/xiaocong-li), EIT.
+- ***2023.07 - 2023.12***, [BoChu](https://www.bochu.com/en/), Shanghai.
