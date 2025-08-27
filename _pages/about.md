@@ -43,7 +43,7 @@ Now, I am pursuing a Ph.D in Control Science and Engineering from [School of Aut
 </div>
 -->
 
-- [Stackelberg-Nash Game-Theoretic Formation Path Planning for Multi-Agent Interactions](https://ieeexplore.ieee.org/abstract/document/10831214), **Xuqi Su**, Zhaohui Yang, et al.
+- <div><div class="badge">IEEE SMC 2024</div>[Stackelberg-Nash Game-Theoretic Formation Path Planning for Multi-Agent Interactions](https://ieeexplore.ieee.org/abstract/document/10831214), **Xuqi Su**, Zhaohui Yang, et al.
 - [Three-stage multi-objective optimization approach based on sparsity knowledge for multi-airship earth-observation task scheduling](https://www.sciencedirect.com/science/article/abs/pii/S0952197623014744), **Xuqi Su**, Yuhao Jing, Pingfang Zhou, Deyu Yu
 
 # 🎖 Honors and Awards
