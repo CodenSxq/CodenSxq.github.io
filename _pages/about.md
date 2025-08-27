@@ -45,12 +45,14 @@ Now, I am pursuing a Ph.D in Control Science and Engineering from [School of Aut
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- ***2025.03*** Outstanding Graduates, SJTU (Top 10%).
+- ***2024.10*** National Scholarship (Top 1%)
+- ***2022.06*** Outstanding Graduates, CSU and Hunan (Top 10%).
+- ***2021.08*** National Second Price, "NXP Cup" Smart Car Competition (Top 3%)
 
 # 📖 Educations
 - ***2025.09 - now***, Ph.D., Shanghai Jiao Tong University, Shanghai.
-- ***2022.06 - 2025.06***, Master, Shanghai Jiao Tong University, Shanghai. 
+- ***2022.06 - 2025.03***, Master, Shanghai Jiao Tong University, Shanghai. 
 - ***2018.09 - 2022.06***, Bachelor, Central South University, Changsha. 
 
 # 💬 Invited Talks
