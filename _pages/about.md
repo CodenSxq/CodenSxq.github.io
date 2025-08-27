@@ -43,7 +43,7 @@ Now, I am pursuing a Ph.D in Control Science and Engineering from [School of Aut
 </div>
 -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Three-stage multi-objective optimization approach based on sparsity knowledge for multi-airship earth-observation task scheduling](https://www.sciencedirect.com/science/article/abs/pii/S0952197623014744), **Xuqi Su**, Yuhao Jing, Pingfang Zhou, Deyu Yu
 
 # 🎖 Honors and Awards
 - ***2025.03*** Outstanding Graduates, SJTU (Top 10%)
