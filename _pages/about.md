@@ -26,7 +26,7 @@ Now, I am pursuing a PhD in Control Science and Engineering from [School of Auto
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-*2025.10*: A volunteer for [IROS 2025](https://iros25.org/).
+- *2025.10*: A volunteer for [IROS 2025](https://iros25.org/).
 
 # 📝 Publications 
 
